@@ -11,54 +11,74 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Cornell University, 2024 (expected)
+* B.S. in Computer Science (Summa Cum Laude), Cornell University, 2022
+* Minor in Material Science Engineering and Linguistics
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Software Development Engineer Intern
+_Amazon AWS Directory Services_\
+Summer 2024
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Designed and implemented a centralized GDPR compliance system of AWS Directory Services 
+which was scalable to tens of thousands of events per minute
+* Ensured that the new system was extensible and usable across multiple teams in Directory Services
 
-Publications
+## Materials Process and Engineering Intern
+_Viasat Inc_\
+Summer 2021
+
+* Drafted material test plans for research and development of composite aerospace structures
+* Wrote MATLAB scripts for flight testing of mechanical structures
+
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+## Proofs for Deductive Databases
+_Under the guidance of Nate Foster and Ryan Doenges_\
+Designing a proof system for extensions of Datalog to provide methods for debugging queries and verifying the correctness of query results.
+
+* Created an elegant proof system for the Egglog language (an extension of Datalog with equality saturation)
+* Programmed a verified proof checker in for the proof system in Coq
+* Wrote a master’s thesis on the proof system and its applications with case study on optimizing NetKAT programs using Egglog
+
+## Machine Learning with Humans in the Loop
+_PI: Chien-Ju Ho_\
+Analyzing human behavior to develop artificial intelligence agents designed to cooperate with humans using reinforcement learning.
+
+* Created human models incorporating human cognitive bias and level-k game theoretic frameworks
+* Implemented a markov decision process environment and value iteration for evaluation of AI agents
+* Evaluated performance of different AI agent models and their cooperation abilities with human models
+
+## SARA: Integrating Materials Theory, Experiment, and Computation
+_PI: R.B. van Dover, Michael Thompson_\
+Integrating materials science and computer science methods to dramatically accelerate by orders of magnitude, the discovery and development of new materials.
+
+* Used hyperspectral imaging and transfer matrix method to determine the optical depth of various amorphous and crystalline thin films to understand their composition
+* Performed photolithography, sputtering deposition, and profilometry 
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Eta Compiler
+* Designed and implemented a compiler for the Eta language 
+(a language designed for CS 5120) in Kotlin which [ranked among the 
+top four compilers in the class](https://courses.cs.cornell.edu/cs4120/2023sp/project/bakeoff/)
+* Implemented Copy Propagation, Constant Folding, Dead Code Removal, 
+Register Allocation, and Conditional Constant Propagation
+
+## OCaml Scrabble
+* Implemented a terminal-based version of the classic game Scrabble
+* Customizations included board size, number of players, bonus words, and randomization of bonus tiles.
+
+## Computational Linguistics Projects
+* Implemented a hidden markov model and maximum entropy markov model for named entity recognition tasks
+* Implemented a categorical naïve bayes text classifier
+* Developed a syntactic parsing model using Cocke-Younger-Kasami algorithm
+* Performed semantic latent structure identification using Expectation-Maximization trained on the Universal Dependencies English Web Text corpus
+* Trained FFNN, RNN, and LSTM neural networks for natural language processing tasks
+
+
+
