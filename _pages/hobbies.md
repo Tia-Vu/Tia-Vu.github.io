@@ -47,13 +47,24 @@ In my last year in undergrad, I picked up a little bit of bridge. I currently pl
 on [bridge base](https://www.bridgebase.com/) under the name cs_ling.
 
 
-[//]: # (Linguistics)
+Linguistics
+======
+ 
+I like to dabble in linguistics, and some of my current topics of interest include syntactic topicalization, tonal languages, 
+and the general field of pragmatics and semantics.
 
-[//]: # (======)
+In my free time, I also enjoy learning and creating new languages. Languages that I am currently studying or have studied in the past include:
 
-[//]: # ()
+* Vietnamese
+* French
+* German
+
+And here are some languages I would like to study in the future:
+
+* Japanese
+* Swedish
+
 [//]: # (Twisty Puzzles)
-
 [//]: # (======)
 
 
