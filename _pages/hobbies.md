@@ -20,8 +20,8 @@ For the last year, I have studied lion dancing from [Cornell Lion Dance club](ht
 <img src="/images/liondance3.jpg" alt="liondance3" width="350"/>
 
 
-To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.instagram.com/reel/C_4CHfuS645/?igsh=ZGY0NGR4OXpueTE2)
-or [CLD's showcase performance](https://www.youtube.com/watch?v=KlDutedmz_c).
+To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.instagram.com/reel/C_4CHfuS645/?igsh=ZGY0NGR4OXpueTE2),
+[ISU's Winter Gala Performance](https://www.youtube.com/watch?v=O8_vOy84bfA), or [CLD's showcase performance](https://www.youtube.com/watch?v=KlDutedmz_c).
 
 
 Chinese Yo-Yo
