@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Cornell University, 2024 (expected)
+* M.S. in Computer Science, Cornell University, 2024
 * B.S. in Computer Science (Summa Cum Laude), Cornell University, 2022
 * Minor in Material Science Engineering and Linguistics
 

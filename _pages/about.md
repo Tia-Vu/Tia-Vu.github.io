@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Tia and I'm a second year M.S. student in CS at Cornell with a concentration in programming
-languages and logics. I am currently advised by <a href="https://www.cs.cornell.edu/~jnfoster/"> Nate Foster</a> and
-<a href="https://ryandoeng.es"> Ryan Doenges</a> on my research in verification and proof system design for
-deductive databases. My research interests include type theory and programming language design. 
+Hi! My name is Tia and I'm an incoming Computer Science PhD student concentrating in programming
+languages and logics. I was previously an M.S. student at Cornell University advised by <a href="https://www.cs.cornell.edu/~jnfoster/"> Nate Foster</a> and
+<a href="https://ryandoeng.es"> Ryan Doenges</a> where I worked on verification and proof system design for deductive databases. My research interests include programming language design and verification.
 
-I previously did my B.S. in Computer Science and minored in Material Science Engineering and Linguistics.
+My other academic interests in include linguistics (including pragmatics, semantics, and phonology) and materials science and engineering.
