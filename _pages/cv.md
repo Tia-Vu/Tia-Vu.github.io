@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* PhD in Computer Science, Massachusetts Institute of Technology, 2025-?
 * M.S. in Computer Science, Cornell University, 2024
 * B.S. in Computer Science (Summa Cum Laude), Cornell University, 2022
 * Minor in Material Science Engineering and Linguistics
@@ -64,21 +65,29 @@ Projects
 
 ## Eta Compiler
 * Designed and implemented a compiler for the Eta language 
-(a language designed for CS 5120) in Kotlin which [ranked among the 
+(an imperative programming language designed for CS 5120) in Kotlin which [ranked among the 
 top four compilers in the class](https://courses.cs.cornell.edu/cs4120/2023sp/project/bakeoff/)
 * Implemented Copy Propagation, Constant Folding, Dead Code Removal, 
 Register Allocation, and Conditional Constant Propagation
 
-## OCaml Scrabble
-* Implemented a terminal-based version of the classic game Scrabble
-* Customizations included board size, number of players, bonus words, and randomization of bonus tiles.
+[//]: # ()
+[//]: # (## OCaml Scrabble)
 
-## Computational Linguistics Projects
-* Implemented a hidden markov model and maximum entropy markov model for named entity recognition tasks
-* Implemented a categorical naïve bayes text classifier
-* Developed a syntactic parsing model using Cocke-Younger-Kasami algorithm
-* Performed semantic latent structure identification using Expectation-Maximization trained on the Universal Dependencies English Web Text corpus
-* Trained FFNN, RNN, and LSTM neural networks for natural language processing tasks
+[//]: # (* Implemented a terminal-based version of the classic game Scrabble)
+
+[//]: # (* Customizations included board size, number of players, bonus words, and randomization of bonus tiles.)
+
+[//]: # (## Computational Linguistics Projects)
+
+[//]: # (* Implemented a hidden markov model and maximum entropy markov model for named entity recognition tasks)
+
+[//]: # (* Implemented a categorical naïve bayes text classifier)
+
+[//]: # (* Developed a syntactic parsing model using Cocke-Younger-Kasami algorithm)
+
+[//]: # (* Performed semantic latent structure identification using Expectation-Maximization trained on the Universal Dependencies English Web Text corpus)
+
+[//]: # (* Trained FFNN, RNN, and LSTM neural networks for natural language processing tasks)
 
 
 
