@@ -37,9 +37,9 @@ Summer 2021
 Research
 ======
 
-## Proofs for Deductive Databases
+## Proofs of Equality in Deductive Databases
 _Under the guidance of Nate Foster and Ryan Doenges_\
-Designing a proof system for extensions of Datalog to provide methods for debugging queries and verifying the correctness of query results.
+As part of my [MS thesis](https://ecommons.cornell.edu/items/ecd3bf16-e18a-48de-80de-8c7e2d7ff2c1), I designed proof system for extensions of Datalog with equality to provide methods for debugging and verifying the correctness of query results.
 
 * Created an elegant proof system for the Egglog language (an extension of Datalog with equality saturation)
 * Programmed a verified proof checker in for the proof system in Coq
@@ -47,7 +47,7 @@ Designing a proof system for extensions of Datalog to provide methods for debugg
 
 ## Machine Learning with Humans in the Loop
 _PI: Chien-Ju Ho_\
-Analyzing human behavior to develop artificial intelligence agents designed to cooperate with humans using reinforcement learning.
+Analyzed human behavior to develop artificial intelligence agents designed to cooperate with humans using reinforcement learning.
 
 * Created human models incorporating human cognitive bias and level-k game theoretic frameworks
 * Implemented a markov decision process environment and value iteration for evaluation of AI agents
@@ -55,10 +55,10 @@ Analyzing human behavior to develop artificial intelligence agents designed to c
 
 ## SARA: Integrating Materials Theory, Experiment, and Computation
 _PI: R.B. van Dover, Michael Thompson_\
-Integrating materials science and computer science methods to dramatically accelerate by orders of magnitude, the discovery and development of new materials.
+Integrated materials science and computer science methods to dramatically accelerate by orders of magnitude, the discovery and development of new materials.
 
 * Used hyperspectral imaging and transfer matrix method to determine the optical depth of various amorphous and crystalline thin films to understand their composition
-* Performed photolithography, sputtering deposition, and profilometry 
+* Performed photolithography, sputtering deposition, and profilometry
 
 Projects
 ======
