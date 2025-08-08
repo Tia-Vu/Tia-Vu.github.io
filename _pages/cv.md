@@ -18,6 +18,11 @@ Education
 
 Work Experience
 ======
+## Member of Technical Staff I
+_Qumulo_\
+April 2025-August 2025
+
+* Worked on Qumulo's distributed file system, improving performance and cost in the cloud product.
 
 ## Software Development Engineer Intern
 _Amazon AWS Directory Services_\
