@@ -7,10 +7,21 @@ author_profile: true
 
 A little collection of the hobbies I have acquired over the past few years...or decades
 
+Chinese Yo-Yo
+======
+
+I picked up the Diabolo or Chinese Yo-Yo over the last year and have been a part of
+[Cornell Pro-Yos](https://www.instagram.com/cuproyos/), [Apex Diabolo](https://apexdiabolo.com/), and [Nova Diabolo](https://www.instagram.com/novadiaboloteam/). My most recent performances
+were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xHo&t) and the [AANHPI Heritage Month Celebration](https://www.youtube.com/watch?v=8xJhbPJH74M).
+
+<img src="/images/Apex.JPEG" alt="Apex" width="500"/>
+
+<img src="/images/diabolo1.jpg" alt="diabolo1" width="300"/>
+
 Lion Dancing
 ======
 
-For the last year, I have studied lion dancing from [Cornell Lion Dance club](https://www.instagram.com/liondance_cornell/) and 
+For the last few years, I have studied lion dancing from [Cornell Lion Dance club](https://www.instagram.com/liondance_cornell/) and 
 [Mak-Fai Kung Fu and Lion Dance](https://www.makfailiondance.com/).
 
 <img src="/images/liondance1.jpg" alt="liondance1" width="350"/>
@@ -20,21 +31,8 @@ For the last year, I have studied lion dancing from [Cornell Lion Dance club](ht
 <img src="/images/liondance3.jpg" alt="liondance3" width="350"/>
 
 
-To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.instagram.com/reel/C_4CHfuS645/?igsh=ZGY0NGR4OXpueTE2),
+To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.youtube.com/watch?v=WBAe_MTfots&t),
 [ISU's Winter Gala Performance](https://www.youtube.com/watch?v=O8_vOy84bfA), or [CLD's showcase performance](https://www.youtube.com/watch?v=KlDutedmz_c).
-
-
-Chinese Yo-Yo
-======
-
-More recently, I picked up the Diabolo or Chinese Yo-Yo and have been a part of
-[Cornell Pro-Yos](https://www.instagram.com/cuproyos/), [Apex Diabolo](https://apexdiabolo.com/), and [Nova Diabolo](https://www.instagram.com/novadiaboloteam/). My most recent performance
-was the [AANHPI Heritage Month Celebration](https://www.youtube.com/watch?v=8xJhbPJH74M).
-
-<img src="/images/Apex.JPEG" alt="Apex" width="500"/>
-
-<img src="/images/diabolo1.jpg" alt="diabolo1" width="300"/>
-
 
 Climbing 
 ======
