@@ -16,7 +16,10 @@ were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xH
 
 <img src="/images/Apex.JPEG" alt="Apex" width="500"/>
 
-<img src="/images/diabolo1.jpg" alt="diabolo1" width="300"/>
+<div style="display: flex; gap: 10px;">
+  <img src="/images/DoublesYoyo.jpeg" alt="Doubles" width="300"/>
+  <img src="/images/DiaboloInfinite.jpeg" alt="Infinite" width="300"/>
+</div>
 
 Lion Dancing
 ======
@@ -24,11 +27,13 @@ Lion Dancing
 For the last few years, I have studied lion dancing from [Cornell Lion Dance club](https://www.instagram.com/liondance_cornell/) and 
 [Mak-Fai Kung Fu and Lion Dance](https://www.makfailiondance.com/).
 
-<img src="/images/liondance1.jpg" alt="liondance1" width="350"/>
-
-<img src="/images/liondance2.jpg" alt="liondance2" width="350"/>
-
-<img src="/images/liondance3.jpg" alt="liondance3" width="350"/>
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="/images/liondance1.jpg" alt="liondance1" style="width: 350px; height: 460px; object-fit: cover;"/>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="/images/liondance2.jpg" alt="liondance2" style="width: 350px; height: 225px; object-fit: cover;"/>
+    <img src="/images/liondance3.jpg" alt="liondance3" style="width: 350px; height: 225px; object-fit: cover;"/>
+  </div>
+</div>
 
 
 To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.youtube.com/watch?v=WBAe_MTfots&t),
