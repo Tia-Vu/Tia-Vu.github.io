@@ -12,3 +12,10 @@ languages and logics. I was previously an M.S. student at Cornell University adv
 <a href="https://ryandoeng.es"> Ryan Doenges</a> where I worked on verification and proof system design for deductive databases. My research interests include programming language design and verification.
 
 My other academic interests include linguistics (spanning pragmatics, semantics, and phonology) and materials science and engineering.
+
+## Have We Met? I've Been To...
+
+| Conference                                                            | Location    | Date      |
+|-----------------------------------------------------------------------|-------------|-----------|
+| [OPLSS](https://www.cs.uoregon.edu/research/summerschool/summer26/)   | Eugene, OR  | June 2026 |
+| [PLDI 2023](https://pldi23.sigplan.org/)                              | Orlando, FL | June 2023 |
