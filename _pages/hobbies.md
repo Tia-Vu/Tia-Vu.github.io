@@ -51,7 +51,7 @@ Bridge
 ======
 
 In my last year in undergrad, I picked up a little bit of bridge. I currently play Precision Club, and I'm
-on [bridge base](https://www.bridgebase.com/) under the name cs_ling.
+on [bridge base online](https://www.bridgebase.com/) under the name cs_ling.
 
 
 Linguistics
@@ -64,16 +64,12 @@ In my free time, I also enjoy learning and creating new languages. Languages tha
 
 * Vietnamese
 * French
-* German
 
 And here are some languages I would like to study in the future:
 
+* German
 * Japanese
 * Swedish
-
-[//]: # (Twisty Puzzles)
-[//]: # (======)
-
 
 
 
