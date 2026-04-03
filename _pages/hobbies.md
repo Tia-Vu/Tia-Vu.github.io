@@ -35,7 +35,7 @@ For the last few years, I have studied lion dancing from [Cornell Lion Dance clu
     <img src="/images/liondance3.jpg" alt="liondance3" style="width: 350px; height: 225px; object-fit: cover;"/>
   </div>
 </div>
-
+<img src="/images/wmparade.jpeg" alt="liondance4" style="width: 710px; height: 300px; object-fit: cover; margin-top: 10px;"/>
 
 To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.youtube.com/watch?v=WBAe_MTfots&t),
 [ISU's Winter Gala Performance](https://www.youtube.com/watch?v=O8_vOy84bfA), or [CLD's showcase performance](https://www.youtube.com/watch?v=KlDutedmz_c).
