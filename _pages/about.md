@@ -15,7 +15,7 @@ My other academic interests include linguistics (spanning pragmatics, semantics,
 
 ## Have We Met? I've Been To...
 
-| Conference                                                            | Location    | Date      |
-|-----------------------------------------------------------------------|-------------|-----------|
-| [OPLSS](https://www.cs.uoregon.edu/research/summerschool/summer26/)   | Eugene, OR  | June 2026 |
-| [PLDI 2023](https://pldi23.sigplan.org/)                              | Orlando, FL | June 2023 |
+| Conference                                                               | Location    | Date      |
+|--------------------------------------------------------------------------|-------------|-----------|
+| [OPLSS 2026](https://www.cs.uoregon.edu/research/summerschool/summer26/) | Eugene, OR  | June 2026 |
+| [PLDI 2023](https://pldi23.sigplan.org/)                                 | Orlando, FL | June 2023 |
