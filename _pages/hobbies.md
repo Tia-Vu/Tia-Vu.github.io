@@ -14,15 +14,15 @@ I picked up the Diabolo or Chinese Yo-Yo over the last year and have been a part
 [Cornell Pro-Yos](https://www.instagram.com/cuproyos/), [Apex Diabolo](https://apexdiabolo.com/), and [Nova Diabolo](https://www.instagram.com/novadiaboloteam/). My most recent performances
 were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xHo&t) and the [AANHPI Heritage Month Celebration](https://www.youtube.com/watch?v=8xJhbPJH74M).
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <div style="display: flex; flex-direction: column; gap: 10px; flex: 2;">
-    <img src="/images/Apex.JPEG" alt="Apex" style="width: 100%; object-fit: cover;"/>
+<div style="display: flex; gap: 10px;">
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="/images/Apex.JPEG" alt="Apex" style="width: 400px; object-fit: cover;"/>
     <div style="display: flex; gap: 10px;">
-      <img src="/images/DoublesYoyo.jpeg" alt="Doubles" style="flex: 1; object-fit: cover;"/>
-      <img src="/images/DiaboloInfinite.jpeg" alt="Infinite" style="flex: 1; object-fit: cover;"/>
+      <img src="/images/DoublesYoyo.jpeg" alt="Doubles" style="width: 195px; object-fit: cover;"/>
+      <img src="/images/DiaboloInfinite.jpeg" alt="Infinite" style="width: 195px; object-fit: cover;"/>
     </div>
   </div>
-  <img src="/images/nova.jpeg" alt="Nova" style="flex: 1; align-self: stretch; object-fit: cover;"/>
+  <img src="/images/nova.jpeg" alt="Nova" style="width: 195px; object-fit: cover; align-self: stretch;"/>
 </div>
 
 Lion Dancing
