@@ -16,7 +16,7 @@ were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xH
 
 <div style="display: flex; gap: 10px;">
   <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="/images/Apex.JPEG" alt="Apex" style="width: 550px; object-fit: cover;"/>
+    <img src="/images/Apex.JPEG" alt="Apex" style="width: 550px; height: 400px; object-fit: cover;"/>
     <div style="display: flex; gap: 10px;">
       <img src="/images/DoublesYoyo.jpeg" alt="Doubles" style="width: 270px; object-fit: cover;"/>
       <img src="/images/DiaboloInfinite.jpeg" alt="Infinite" style="width: 270px; object-fit: cover;"/>
