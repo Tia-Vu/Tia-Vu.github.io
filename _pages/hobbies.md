@@ -15,14 +15,14 @@ I picked up the Diabolo or Chinese Yo-Yo over the last year and have been a part
 were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xHo&t) and the [AANHPI Heritage Month Celebration](https://www.youtube.com/watch?v=8xJhbPJH74M).
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="/images/Apex.JPEG" alt="Apex" style="width: 610px; object-fit: cover;"/>
+  <div style="display: flex; flex-direction: column; gap: 10px; flex: 2;">
+    <img src="/images/Apex.JPEG" alt="Apex" style="width: 100%; object-fit: cover;"/>
     <div style="display: flex; gap: 10px;">
-      <img src="/images/DoublesYoyo.jpeg" alt="Doubles" style="width: 300px; object-fit: cover;"/>
-      <img src="/images/DiaboloInfinite.jpeg" alt="Infinite" style="width: 300px; object-fit: cover;"/>
+      <img src="/images/DoublesYoyo.jpeg" alt="Doubles" style="flex: 1; object-fit: cover;"/>
+      <img src="/images/DiaboloInfinite.jpeg" alt="Infinite" style="flex: 1; object-fit: cover;"/>
     </div>
   </div>
-  <img src="/images/nova.jpeg" alt="Nova" style="width: 300px; align-self: stretch; object-fit: cover;"/>
+  <img src="/images/nova.jpeg" alt="Nova" style="flex: 1; align-self: stretch; object-fit: cover;"/>
 </div>
 
 Lion Dancing
@@ -32,12 +32,12 @@ For the last few years, I have studied lion dancing from [Cornell Lion Dance clu
 [Mak-Fai Kung Fu and Lion Dance](https://www.makfailiondance.com/).
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/images/liondance1.jpg" alt="liondance1" style="width: 350px; height: 460px; object-fit: cover;"/>
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="/images/liondance2.jpg" alt="liondance2" style="width: 350px; height: 225px; object-fit: cover;"/>
-    <img src="/images/liondance3.jpg" alt="liondance3" style="width: 350px; height: 225px; object-fit: cover;"/>
+  <img src="/images/liondance1.jpg" alt="liondance1" style="flex: 1; height: 330px; object-fit: cover;"/>
+  <div style="display: flex; flex-direction: column; gap: 10px; flex: 1;">
+    <img src="/images/liondance2.jpg" alt="liondance2" style="width: 100%; height: 160px; object-fit: cover;"/>
+    <img src="/images/liondance3.jpg" alt="liondance3" style="width: 100%; height: 160px; object-fit: cover;"/>
   </div>
-  <img src="/images/wmparade.jpeg" alt="liondance4" style="width: 350px; height: 460px; object-fit: cover;"/>
+  <img src="/images/wmparade.jpeg" alt="liondance4" style="flex: 1; height: 330px; object-fit: cover;"/>
 </div>
 
 To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.youtube.com/watch?v=WBAe_MTfots&t),
