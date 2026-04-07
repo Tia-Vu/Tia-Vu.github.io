@@ -36,7 +36,9 @@ were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xH
   }
   .gallery-main .left-col .bottom-row img {
     flex: 1;
-    height: 200px;
+    width: 0;
+    min-width: 0;
+    height: auto;
     object-fit: cover;
   }
   .gallery-main .right-img {
