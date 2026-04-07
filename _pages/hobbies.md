@@ -14,30 +14,102 @@ I picked up the Diabolo or Chinese Yo-Yo over the last year and have been a part
 [Cornell Pro-Yos](https://www.instagram.com/cuproyos/), [Apex Diabolo](https://apexdiabolo.com/), and [Nova Diabolo](https://www.instagram.com/novadiaboloteam/). My most recent performances
 were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xHo&t) and the [AANHPI Heritage Month Celebration](https://www.youtube.com/watch?v=8xJhbPJH74M).
 
-<div style="display: flex; gap: 10px;">
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="/images/Apex.JPEG" alt="Apex" style="width: 550px; height: 400px; object-fit: cover;"/>
-    <div style="display: flex; gap: 10px;">
-      <img src="/images/DoublesYoyo.jpeg" alt="Doubles" style="width: 270px; object-fit: cover;"/>
-      <img src="/images/DiaboloInfinite.jpeg" alt="Infinite" style="width: 270px; object-fit: cover;"/>
+<style>
+  .gallery-main {
+    display: flex;
+    gap: 10px;
+  }
+  .gallery-main .left-col {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex: 2;
+  }
+  .gallery-main .left-col .top-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+  }
+  .gallery-main .left-col .bottom-row {
+    display: flex;
+    gap: 10px;
+  }
+  .gallery-main .left-col .bottom-row img {
+    flex: 1;
+    height: 200px;
+    object-fit: cover;
+  }
+  .gallery-main .right-img {
+    flex: 1;
+    height: 410px;
+    object-fit: cover;
+  }
+
+  .gallery-lion {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+  }
+  .gallery-lion .side-img {
+    flex: 1;
+    height: 330px;
+    object-fit: cover;
+  }
+  .gallery-lion .mid-col {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex: 1;
+  }
+  .gallery-lion .mid-col img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+  }
+
+  @media (max-width: 600px) {
+    .gallery-main,
+    .gallery-lion {
+      flex-direction: column;
+    }
+    .gallery-main .right-img,
+    .gallery-main .left-col .top-img,
+    .gallery-main .left-col .bottom-row img,
+    .gallery-lion .side-img,
+    .gallery-lion .mid-col img {
+      width: 100%;
+      height: 220px;
+    }
+    .gallery-main .left-col .bottom-row {
+      flex-direction: row; /* keep the two bottom thumbs side by side */
+    }
+  }
+</style>
+
+<div class="gallery-main">
+  <div class="left-col">
+    <img src="/images/Apex.JPEG" alt="Apex" class="top-img"/>
+    <div class="bottom-row">
+      <img src="/images/DoublesYoyo.jpeg" alt="Doubles"/>
+      <img src="/images/DiaboloInfinite.jpeg" alt="Infinite"/>
     </div>
   </div>
-  <img src="/images/nova.jpeg" alt="Nova" style="width: 270px; height: 400px; object-fit: cover;"/>
+  <img src="/images/nova.jpeg" alt="Nova" class="right-img"/>
 </div>
 
 Lion Dancing
 ======
 
-For the last few years, I have studied lion dancing from [Cornell Lion Dance club](https://www.instagram.com/liondance_cornell/) and 
+For the last few years, I have studied lion dancing from [Cornell Lion Dance club](https://www.instagram.com/liondance_cornell/) and
 [Mak-Fai Kung Fu and Lion Dance](https://www.makfailiondance.com/).
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/images/liondance1.jpg" alt="liondance1" style="flex: 1; height: 330px; object-fit: cover;"/>
-  <div style="display: flex; flex-direction: column; gap: 10px; flex: 1;">
-    <img src="/images/liondance2.jpg" alt="liondance2" style="width: 100%; height: 160px; object-fit: cover;"/>
-    <img src="/images/liondance3.jpg" alt="liondance3" style="width: 100%; height: 160px; object-fit: cover;"/>
+<div class="gallery-lion">
+  <img src="/images/liondance1.jpg" alt="liondance1" class="side-img"/>
+  <div class="mid-col">
+    <img src="/images/liondance2.jpg" alt="liondance2"/>
+    <img src="/images/liondance3.jpg" alt="liondance3"/>
   </div>
-  <img src="/images/wmparade.jpeg" alt="liondance4" style="flex: 1; height: 330px; object-fit: cover;"/>
+  <img src="/images/wmparade.jpeg" alt="liondance4" class="side-img"/>
 </div>
 
 To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.youtube.com/watch?v=WBAe_MTfots&t),
