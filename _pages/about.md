@@ -11,7 +11,7 @@ Hi! My name is Tia and I'm an MIT Computer Science PhD student advised by <a hre
 languages and logics. I was previously an M.S. student at Cornell University advised by <a href="https://www.cs.cornell.edu/~jnfoster/"> Nate Foster</a> and
 <a href="https://ryandoeng.es"> Ryan Doenges</a> where I worked on verification and proof system design for deductive databases. My research interests include programming language design and verification.
 
-My other academic interests include linguistics (spanning pragmatics, semantics, and phonology) and materials science and engineering.
+My other interests include linguistics (spanning pragmatics, semantics, and phonology) and materials science and engineering (which I nearly majored in).
 
 ## Have We Met? I've Been To...
 

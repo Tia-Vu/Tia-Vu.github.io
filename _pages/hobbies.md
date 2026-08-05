@@ -117,19 +117,26 @@ For the last few years, I have studied lion dancing from [Cornell Lion Dance clu
 To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.youtube.com/watch?v=WBAe_MTfots&t),
 [ISU's Winter Gala Performance](https://www.youtube.com/watch?v=O8_vOy84bfA), or [CLD's showcase performance](https://www.youtube.com/watch?v=KlDutedmz_c).
 
-Climbing 
-======
+[//]: # (Climbing )
 
-I also enjoy climbing on occasion.
+[//]: # (======)
 
-<img src="/images/climbing1.jpg" alt="climbing1" width="300"/>
+[//]: # ()
+[//]: # (I also enjoy climbing on occasion.)
 
-Bridge
-======
+[//]: # ()
+[//]: # (<img src="/images/climbing1.jpg" alt="climbing1" width="300"/>)
 
-In my last year in undergrad, I picked up a little bit of bridge. I currently play Precision Club, and I'm
-on [bridge base online](https://www.bridgebase.com/) under the name cs_ling.
+[//]: # (Bridge)
 
+[//]: # (======)
+
+[//]: # ()
+[//]: # (In my last year in undergrad, I picked up a little bit of bridge. I currently play Precision Club, and I'm)
+
+[//]: # (on [bridge base online]&#40;https://www.bridgebase.com/&#41; under the name cs_ling.)
+
+[//]: # ()
 
 Linguistics
 ======
