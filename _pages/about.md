@@ -13,6 +13,8 @@ languages and logics. I was previously an M.S. student at Cornell University adv
 
 My other interests include linguistics (spanning pragmatics, semantics, and phonology) and materials science and engineering (which I nearly majored in).
 
+I'm originally from Seattle, Washington in the beautiful Pacific Northwest, but am now based in Cambridge, MA.
+
 ## Have We Met? I've Been To...
 
 | Event                                                                    | Location      | Date          |

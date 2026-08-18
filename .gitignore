@@ -1,13 +1,19 @@
-# Ignore the contents of the _site directory and other cache directories
+# Build output and caches
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Ignore the directory for local files during development
+# Local development files
 local/
 
-# Ignore the Gemfile that is generated
+# Bundler
 Gemfile.lock
+.bundle/
+vendor/bundle/
 
-# Ingore files created by npm
-node_modules
-package-lock.json
+# macOS
+.DS_Store
+
+# JetBrains AI/Copilot migration noise
+.idea/copilot.data.migration.*.xml

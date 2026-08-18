@@ -9,90 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Computer Science, Massachusetts Institute of Technology, 2025-?
-* M.S. in Computer Science, Cornell University, 2024
-* B.S. in Computer Science (Summa Cum Laude), Cornell University, 2022
-* Minor in Material Science Engineering and Linguistics
+<style>
+  .cv-bar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    margin: -0.5em 0 1em;
+  }
+  .cv-bar a {
+    font-size: 0.82em;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+  .cv-bar a:hover {
+    border-bottom-color: currentColor;
+  }
+  .cv-bar .fas {
+    margin-right: 0.4em;
+  }
 
-Work Experience
-======
-## Member of Technical Staff I
-_Qumulo_\
-April 2025-August 2025
+  /* Page-shaped so each PDF page fills the frame instead of letterboxing. */
+  .cv-embed {
+    display: block;
+    width: 100%;
+    aspect-ratio: 8.5 / 11;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    box-shadow: 0 2px 14px rgba(0, 0, 0, 0.08);
+    background: #f4f4f4;
+  }
 
-* Worked on Qumulo's distributed file system, improving performance and cost in the cloud product
+  .cv-fallback {
+    display: none;
+  }
 
-## Software Development Engineer Intern
-_Amazon AWS Directory Services_\
-Summer 2024
+  /* Mobile browsers largely refuse to render inline PDFs — send them to the file. */
+  @media (max-width: 768px) {
+    .cv-embed {
+      display: none;
+    }
+    .cv-fallback {
+      display: block;
+      padding: 1.4em 1.5em;
+      border: 1px solid #dcdcdc;
+      border-radius: 3px;
+      background: #f8f8f8;
+      text-align: center;
+    }
+    .cv-fallback .btn {
+      margin-top: 0.6em;
+    }
+  }
+</style>
 
-* Designed and implemented a centralized GDPR compliance system of AWS Directory Services 
-which was scalable to tens of thousands of events per minute
-* Ensured that the new system was extensible and usable across multiple teams in Directory Services
+<div class="cv-bar">
+  <a href="{{ base_path }}/files/CV_Tia_Vu.pdf"><i class="fas fa-download" aria-hidden="true"></i>Download PDF</a>
+</div>
 
-## Materials Process and Engineering Intern
-_Viasat Inc_\
-Summer 2021
+<object class="cv-embed" data="{{ base_path }}/files/CV_Tia_Vu.pdf" type="application/pdf">
+  <div style="padding:1.4em 1.5em;text-align:center;">
+    Your browser can't display PDFs inline.
+    <a href="{{ base_path }}/files/CV_Tia_Vu.pdf">Download the CV</a> instead.
+  </div>
+</object>
 
-* Drafted material test plans for research and development of composite aerospace structures
-* Wrote MATLAB scripts for flight testing of mechanical structures
-
-Research
-======
-
-## Proofs of Equality in Deductive Databases
-_Under the guidance of Nate Foster and Ryan Doenges_\
-As part of my [MS thesis](https://ecommons.cornell.edu/items/ecd3bf16-e18a-48de-80de-8c7e2d7ff2c1), I designed proof system for extensions of Datalog with equality to provide methods for debugging and verifying the correctness of query results.
-
-* Created an elegant proof system for the Egglog language (an extension of Datalog with equality saturation)
-* Programmed a verified proof checker in for the proof system in Coq
-* Wrote a master’s thesis on the proof system and its applications with case study on optimizing NetKAT programs using Egglog
-
-## Machine Learning with Humans in the Loop
-_PI: Chien-Ju Ho_\
-Analyzed human behavior to develop artificial intelligence agents designed to cooperate with humans using reinforcement learning.
-
-* Created human models incorporating human cognitive bias and level-k game theoretic frameworks
-* Implemented a markov decision process environment and value iteration for evaluation of AI agents
-* Evaluated performance of different AI agent models and their cooperation abilities with human models
-
-## SARA: Integrating Materials Theory, Experiment, and Computation
-_PI: R.B. van Dover, Michael Thompson_\
-Integrated materials science and computer science methods to dramatically accelerate by orders of magnitude, the discovery and development of new materials.
-
-* Used hyperspectral imaging and transfer matrix method to determine the optical depth of various amorphous and crystalline thin films to understand their composition
-* Performed photolithography, sputtering deposition, and profilometry
-
-Projects
-======
-
-## Eta Compiler
-* Designed and implemented a compiler for the Eta language 
-(an imperative programming language designed for CS 5120) in Kotlin which [ranked among the 
-top four compilers in the class](https://courses.cs.cornell.edu/cs4120/2023sp/project/bakeoff/)
-* Implemented Copy Propagation, Constant Folding, Dead Code Removal, 
-Register Allocation, and Conditional Constant Propagation
-
-[//]: # ()
-[//]: # (## OCaml Scrabble)
-
-[//]: # (* Implemented a terminal-based version of the classic game Scrabble)
-
-[//]: # (* Customizations included board size, number of players, bonus words, and randomization of bonus tiles.)
-
-[//]: # (## Computational Linguistics Projects)
-
-[//]: # (* Implemented a hidden markov model and maximum entropy markov model for named entity recognition tasks)
-
-[//]: # (* Implemented a categorical naïve bayes text classifier)
-
-[//]: # (* Developed a syntactic parsing model using Cocke-Younger-Kasami algorithm)
-
-[//]: # (* Performed semantic latent structure identification using Expectation-Maximization trained on the Universal Dependencies English Web Text corpus)
-
-[//]: # (* Trained FFNN, RNN, and LSTM neural networks for natural language processing tasks)
-
-
-
+<div class="cv-fallback">
+  Inline preview isn't available on small screens.
+  <a class="btn btn--info" href="{{ base_path }}/files/CV_Tia_Vu.pdf">Download CV (PDF)</a>
+</div>
