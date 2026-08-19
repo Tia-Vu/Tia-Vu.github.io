@@ -44,12 +44,20 @@ A little collection of the hobbies I have acquired over the past few years...or 
   .gallery .portrait {
     aspect-ratio: 2 / 3;
   }
-  .gallery .land {
-    aspect-ratio: 4 / 3;
+  /* The lion dance row is a triptych: liondance1 is nearly square (2591x2866)
+     and its subject runs from the ears to the tassel tips, so instead of
+     cropping it into a landscape tile it sits in the middle at its own
+     proportions. The two side columns are made wider to compensate, which
+     lands all three tiles on exactly the same height -- the row is still one
+     clean rectangle, and nothing needs a blurred filler. */
+  .gallery.triptych {
+    grid-template-columns: 1.414fr 0.904fr 1.414fr;
   }
-  /* Near-square original: bias the crop upward to keep the lion's ears in frame. */
-  .gallery .land.bias-up {
-    object-position: center 38%;
+  .gallery .triptych-mid {
+    aspect-ratio: 2591 / 2866;
+  }
+  .gallery .triptych-side {
+    aspect-ratio: 1.414;
   }
 
   /* Three narrow tiles stop being legible on a phone, so drop to one column. */
@@ -59,6 +67,9 @@ A little collection of the hobbies I have acquired over the past few years...or 
     }
     .gallery {
       gap: 10px;
+    }
+    .gallery.triptych {
+      grid-template-columns: 1fr;
     }
   }
 </style>
@@ -90,10 +101,10 @@ For the last few years, I have studied lion dancing from [Cornell Lion Dance clu
 <img class="tile banner" src="/images/liondance3.jpg" alt="A stage lined with lion dance teams mid-performance" loading="lazy">
 </div>
 
-<div class="gallery cols-3">
-<img class="tile land bias-up" src="/images/liondance1.jpg" alt="Holding a white and blue lion head before a performance" loading="lazy">
-<img class="tile land" src="/images/liondance2.jpg" alt="Lion dance performance in costume" loading="lazy">
-<img class="tile land" src="/images/wmparade.jpeg" alt="The lion dance team in uniform at a Chinatown parade" loading="lazy">
+<div class="gallery triptych">
+<img class="tile triptych-side" src="/images/liondance2.jpg" alt="Lion dance performance in costume" loading="lazy">
+<img class="tile triptych-mid" src="/images/liondance1.jpg" alt="Holding a white and blue lion head before a performance" loading="lazy">
+<img class="tile triptych-side" src="/images/wmparade.jpeg" alt="The lion dance team in uniform at a Chinatown parade" loading="lazy">
 </div>
 
 To see me perform, check out [Mak Fai's 50th Anniversary Drum Routine](https://www.youtube.com/watch?v=WBAe_MTfots&t),

@@ -51,11 +51,19 @@ author_profile: true
   .teaching-row .course {
     flex: 1 1 auto;
     min-width: 0;
+    display: flex;
+    align-items: baseline;
+    gap: 0.5em;
   }
   .teaching-row .code {
+    flex: 0 0 auto;
+    min-width: 4.8em;
     font-weight: 700;
-    margin-right: 0.45em;
     white-space: nowrap;
+  }
+  .teaching-row .title {
+    flex: 1 1 auto;
+    min-width: 0;
   }
   .teaching-row .star {
     flex: 0 0 auto;
@@ -86,6 +94,7 @@ author_profile: true
       letter-spacing: 0.06em;
     }
     .teaching-row .course {
+      display: block;
       flex: 1 1 auto;
       order: 2;
     }
@@ -94,7 +103,7 @@ author_profile: true
     }
     .teaching-row .code {
       display: block;
-      margin-right: 0;
+      min-width: 0;
     }
   }
 </style>
@@ -111,45 +120,45 @@ author_profile: true
 <ul class="teaching-list">
   <li class="teaching-row">
     <span class="term">Fall 2024</span>
-    <span class="course"><span class="code">CS 2800</span>Mathematical Foundations of Computing</span>
+    <span class="course"><span class="code">CS 2800</span><span class="title">Mathematical Foundations of Computing</span></span>
     <span class="star" title="Teaching award">&#9733;</span>
   </li>
   <li class="teaching-row">
     <span class="term">Spring 2024</span>
-    <span class="course"><span class="code">CS 4110</span>Programming Languages and Logics</span>
+    <span class="course"><span class="code">CS 4110</span><span class="title">Programming Languages and Logics</span></span>
     <span class="star" title="Teaching award">&#9733;</span>
   </li>
   <li class="teaching-row">
     <span class="term">Fall 2023</span>
-    <span class="course"><span class="code">CS 2800</span>Discrete Structures</span>
+    <span class="course"><span class="code">CS 2800</span><span class="title">Discrete Structures</span></span>
     <span class="star" title="Teaching award">&#9733;</span>
   </li>
   <li class="teaching-row">
     <span class="term">Spring 2023</span>
-    <span class="course"><span class="code">CS 2800</span>Discrete Structures</span>
+    <span class="course"><span class="code">CS 2800</span><span class="title">Discrete Structures</span></span>
     <span class="star" title="Teaching award">&#9733;</span>
   </li>
   <li class="teaching-row">
     <span class="term">Fall 2022</span>
-    <span class="course"><span class="code">CS 4820</span>Introduction to Analysis of Algorithms</span>
+    <span class="course"><span class="code">CS 4820</span><span class="title">Introduction to Analysis of Algorithms</span></span>
     <span class="star" title="Teaching award">&#9733;</span>
   </li>
   <li class="teaching-row">
     <span class="term">Spring 2022</span>
-    <span class="course"><span class="code">CS 2800</span>Discrete Structures</span>
+    <span class="course"><span class="code">CS 2800</span><span class="title">Discrete Structures</span></span>
     <span class="star" title="Teaching award">&#9733;</span>
   </li>
   <li class="teaching-row">
     <span class="term">Fall 2021</span>
-    <span class="course"><span class="code">CS 3110</span>Data Structures and Functional Programming</span>
+    <span class="course"><span class="code">CS 3110</span><span class="title">Data Structures and Functional Programming</span></span>
   </li>
   <li class="teaching-row">
     <span class="term">Spring 2021</span>
-    <span class="course"><span class="code">CS 2800</span>Discrete Structures</span>
+    <span class="course"><span class="code">CS 2800</span><span class="title">Discrete Structures</span></span>
   </li>
   <li class="teaching-row">
     <span class="term">Fall 2020</span>
-    <span class="course"><span class="code">MSE 1140</span>Materials: The Future of Energy</span>
+    <span class="course"><span class="code">MSE 1140</span><span class="title">Materials: The Future of Energy</span></span>
   </li>
 </ul>
 
