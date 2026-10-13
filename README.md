@@ -20,13 +20,18 @@ and deployed automatically by GitHub Pages on every push to `master`.
 | `images/` | Photos, favicons, and `og-image.png` (the 1200×630 link-preview card). |
 | `_data/navigation.yml` | The header nav. |
 | `_config.yml` | Site-wide settings: title, description, author sidebar, social links, collections. |
-| `_sass/`, `assets/` | Theme styles and scripts, inherited from the template. |
-| `_includes/`, `_layouts/` | Theme templates. `_includes/head/custom.html` holds the favicon and MathJax tags; `_includes/seo.html` builds the meta/OpenGraph tags. |
+| `_sass/`, `assets/` | Theme styles and scripts, inherited from the template. `assets/js/main.min.js` is a prebuilt bundle (jQuery plus the theme's plugins); its unminified sources aren't kept here. |
+| `_includes/`, `_layouts/` | Theme templates. `_includes/head/custom.html` holds the favicon tags; `_includes/seo.html` builds the meta/OpenGraph tags. |
 
-The site has four pages plus the publication detail pages — the template's demo
-collections (talks, portfolio, blog) and their archive pages have been removed. To bring
-one back, restore its page in `_pages/`, re-add the collection to `_config.yml`, and add a
+The site has five pages (About, Publications, Teaching, CV, Hobbies) — publications are
+listed on one page and don't get pages of their own (`output: false` in `_config.yml`).
+The template's demo collections (talks, portfolio, blog), their archive pages, and
+blog-only features (comments, share buttons) have been removed. To bring a
+collection back, restore its page in `_pages/`, re-add it to `_config.yml`, and add a
 `_data/navigation.yml` entry.
+
+The template also loaded MathJax on every page; that was dropped since no page uses math.
+To bring it back, add its `<script>` tag to `_includes/head/custom.html`.
 
 ## Running locally
 

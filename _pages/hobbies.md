@@ -78,7 +78,7 @@ Chinese Yo-Yo
 ======
 
 I picked up the Diabolo or Chinese Yo-Yo over the last year and have been a part of
-[Cornell Pro-Yos](https://www.instagram.com/cuproyos/), [Apex Diabolo](https://apexdiabolo.com/), and [Nova Diabolo](https://www.instagram.com/novadiaboloteam/). My most recent performances
+[Cornell Pro-Yos](https://www.instagram.com/cuproyos/), [Apex Diabolo](https://apexdiabolo.com/), and [Nova Diabolo](https://nova-diabolo.github.io/). My most recent performances
 were the [BU CSA Lunar New Year Gala](https://www.youtube.com/watch?v=hdVHol76xHo&t) and the [AANHPI Heritage Month Celebration](https://www.youtube.com/watch?v=8xJhbPJH74M).
 
 <div class="gallery">

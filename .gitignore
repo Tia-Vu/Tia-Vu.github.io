@@ -15,5 +15,5 @@ vendor/bundle/
 # macOS
 .DS_Store
 
-# JetBrains AI/Copilot migration noise
-.idea/copilot.data.migration.*.xml
+# JetBrains project settings
+.idea/
